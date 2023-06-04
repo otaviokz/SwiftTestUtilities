@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Lettuce",
+        "notes": null,
+        "quantity": 1,
+        "list": "Groceries"
+    },
+    {
+        "name": "Minced Meat",
+        "notes": "3 pounds",
+        "quantity": null,
+        "list": "Groceries"
+    },
+    {
+        "name": "Tomatoes",
+        "notes": "Half a kilo, Preferably the Spanish ones",
+        "quantiry": null,
+        "list": "Groceries"
+
+    },
+    {
+        "name": "Potatoes"
+        "notes": null,
+        "quantiry": 5,
+        "list": "Groceries"
+    },
+    {
+        "name": "Carrots"
+        "notes": "Big ones",
+        "quantity": 6;
+        "list": "Groceries"
+    }
+]
